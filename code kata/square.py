@@ -1,4 +1,4 @@
 N = int(input())
-k = inbt(input())
-a = lamda b:b**k
+k = int(input())
+a = lambda b:b**k
 print(a(N))
