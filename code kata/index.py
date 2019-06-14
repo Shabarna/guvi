@@ -1,0 +1,26 @@
+x = int(input())
+if(x==1):
+  s=int(input())
+  print(s,0)
+elif(x==2):
+  s,h=map(int,input().split())
+  print(s,0)
+  print(h,1)
+elif(x==3):
+  s,h,A=map(int,input().split())
+  print(s,0)
+  print(h,1)
+  print(A,2)
+elif(x==4):
+  s,h,A,b=map(int,input().split())
+  print(s,0)
+  print(h,1)
+  print(A,2)
+  print(b,3)
+elif(x==5):
+  s,h,A,b,r=map(int,input().split())
+  print(s,0)
+  print(h,1)
+  print(A,2)
+  print(b,3)
+  print(r,4)
