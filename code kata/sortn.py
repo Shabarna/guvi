@@ -1,5 +1,5 @@
-a=int(input())
-b=[int(i) for i in input().split()]
-b.sort()
-for x in b:
+num=int(input())
+sr=[int(i) for i in input().split()]
+sr.sort()
+for x in sr:
   print(x,end=' ')
