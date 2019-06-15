@@ -1,6 +1,6 @@
-a = int(input())
-x=0
-while(a>0):
-  x=x+1
-  a=a//10
-print(x)
+num = int(input())
+s=0
+while(num>0):
+  s=s+1
+  num=num//10
+print(s)
