@@ -1,3 +1,3 @@
-num=input()
-for i in num:
-  print(i,end=' ')
+number=input()
+for q in number:
+  print(q,end=' ')
