@@ -1,0 +1,5 @@
+n = input()
+num = input()
+c = max(num)
+d = min(num)
+print(d,c)
