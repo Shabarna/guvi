@@ -1,5 +1,5 @@
 a = int(input())
-for i in range(1,a):
+for i in range(0,a):
   if(i%2==0):
     print("no")
     break
