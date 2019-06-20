@@ -1,3 +1,3 @@
 a = float(input())
-b = round(a)
+b=int(a)
 print(b)
