@@ -1,2 +1,2 @@
-a = input()
-print(a)
+shabarna = input()
+print(shabarna)
