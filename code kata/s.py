@@ -1,0 +1,12 @@
+in1=input()
+a=int(len(in1)/2)
+if(len(in1)%2!=0):
+    c=in1[:a]
+    b=in1[a+1:len(in1)]
+    in2=c+"*"+b
+    print(in2)
+elif(len(in1)%2==0):
+    c=in1[:a-1]
+    b=in1[a+1:len(in1)]
+    str4=c+"**"+b
+print(str4)
