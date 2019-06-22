@@ -1,7 +1,7 @@
-number,r,s=input().split()
-number=int(number)
+n1,r,s=input().split()
+n1=int(n1)
 s=int(s)
 if(r=='/'):
-  print(number//s)
+  print(n1//s)
 else:
-print(number%s)
+print(n1%s)
