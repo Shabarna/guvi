@@ -6,4 +6,4 @@ for x in n3:
 n1.sort()
 n1.sort(key=len)
 for x in n1:
-print (x,end=' ')
+  print (x,end=' ')
