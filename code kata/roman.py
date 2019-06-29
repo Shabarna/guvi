@@ -1,0 +1,63 @@
+u=input()
+a='I'
+b='II'
+c='III'
+d='IV'
+e='V'
+f='VI'
+g='VII'
+h='VIII'
+i='IX'
+j='X'
+k='XI'
+l='XII'
+m='XIII'
+n='XIV'
+o='XV'
+p='XVI'
+q='XVII'
+r='XVIII'
+s='XIX'
+t='XI'
+if(u==a):
+  print(1)
+elif(u==b):
+  print(2)
+elif(u==c):
+  print(3)
+elif(u==d):
+  print(4)
+elif(u==e):
+  print(5)
+elif(u==f):
+  print(6)
+elif(u==g):
+  print(7)
+elif(u==h):
+  print(8)
+elif(u==i):
+  print(9)
+elif(u==j):
+  print(10)
+elif(u==k):
+  print(11)
+elif(u==l):
+  print(12)
+elif(u==m):
+  print(13)
+elif(u==n):
+  print(14)
+elif(u==o):
+  print(15)
+elif(u==p):
+  print(16)
+elif(u==q):
+  print(17)
+elif(u==r):
+  print(18)
+elif(u==s):
+  print(19)
+elif(u==t):
+  print(20)
+else:
+  print("not valid")
