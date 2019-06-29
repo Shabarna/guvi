@@ -60,4 +60,4 @@ elif(u==s):
 elif(u==t):
   print(20)
 else:
-  print("not valid")
+  print("invalid")
