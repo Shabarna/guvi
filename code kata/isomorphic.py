@@ -6,4 +6,4 @@ b=[n2.count(i) for i in n2]
 if a==b:
   print("yes")
 else:
-print("no")
+  print("no")
