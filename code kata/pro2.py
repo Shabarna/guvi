@@ -5,4 +5,4 @@ length=[]
 dd=combinations(Number,len(Number)-K)
 for i in list(dd):
   length.append("".join(i))
-print(min(l))
+print(min(length))
